@@ -1,0 +1,21 @@
+{
+    "name": "mindongji/php-zxing",
+    "description": "Wrapper for zxing using php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mindong.ji",
+            "email": "285821477@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0" : {
+            "" : "src/"
+        }
+    }
+}
